@@ -15,5 +15,8 @@ This app makes things faster and more convenient, and you can do it in the app w
 ![20240917_103829](https://github.com/user-attachments/assets/e5520b41-065c-4f01-acd7-50af93a7293a)
 
 # Download
-testing app...
 
+# bug
+1.Bug error that prevents downloading from sites such as GitHub
+
+We are fixing bugs. We are testing to find bugs. There may be bugs or errors in the test app. Please leave an issue. 
