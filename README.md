@@ -1,6 +1,6 @@
-# MKcasnollfly
+# exoduimFXN
 
-# what casnollfly?
+# what exoduimFXN?
 This app makes things faster and more convenient, and you can do it in the app without having to enter the site address. 
 
 # Inside the app
